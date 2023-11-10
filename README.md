@@ -1,11 +1,11 @@
 # Cheetsheets {#home}
 
-[Codeblock](#codeblock)
-[Lists](#lists)
-[Definitions](#definitions)
-[Task Lists](#task-lists)
-[Horizontal Rule](#hr)
-[HTML](#html)
+[Codeblock](#codeblock)<br>
+[Lists](#lists)<br>
+[Definitions](#definitions)<br>
+[Task Lists](#task-lists)<br>
+[Horizontal Rule](#hr)<br>
+[HTML](#html)<br>
 
 # Heading 1
 
