@@ -1,4 +1,4 @@
-# Cheetsheets {#home}
+### Markdown Cheetsheet {#home}
 
 [Codeblock](#codeblock)<br>
 [Lists](#lists)<br>
