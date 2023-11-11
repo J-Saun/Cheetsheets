@@ -1,8 +1,13 @@
-### Markdown Cheetsheet { #home }
+### Markdown Cheetsheet
+
+<a id="TOP" />
 
 <hr>
+<a href="cheatsheet.md">← ReadMe</a>
 
-<a href="cheatsheet.md">Cheatsheet</a>
+### Index
+
+<a id="index" />
 
 [Headings](#headers)
 
