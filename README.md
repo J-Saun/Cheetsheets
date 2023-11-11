@@ -359,20 +359,6 @@ Project is about movies and music
 
 <br>
 
-### Images
-
-<a name="images" />
-
-_Image with alt :_
-
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
-
-     ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
-
-<br>
-<a href="#index">ꜛ Index</a>
-<br><br>
-
 ### Foldable text
 
 <a id="fold-text" />
@@ -395,6 +381,20 @@ _Image with alt :_
 <h3>HTML</h3>
 <p>Some HTML code here</p>
 ```
+
+### Images
+
+<a name="images" />
+
+_Image with alt :_
+
+![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
+     ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
+<br>
+<a href="#index">ꜛ Index</a>
+<br><br>
 
 Link to a specific part of the page:
 
