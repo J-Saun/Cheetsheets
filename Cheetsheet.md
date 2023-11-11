@@ -62,9 +62,10 @@
 
 ---
 
-### Emphasis{#emphasis}
+### Emphasis
 
 <a id="emphasis" />
+
 Common text
 
     Just add txt to the md file
@@ -99,22 +100,35 @@ _Emphasized text_
 
 <a id="tables" />
 
-Table (copy to start the table) :
-
 | First Header | Second Header |
 | ------------ | ------------- |
 | Content Cell | Content Cell  |
 | Content Cell | Content Cell  |
 
-Table (copy to add to the table) :
+```
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
+```
 
-| Another Header | Another Header |
-| -------------- | -------------- |
-| Content Cell   | Content Cell   |
-| Content Cell   | Content Cell   |
+| First Header | Second Header | Third Header | Fourth Header |
+| :----------: | :-----------: | :----------: | :-----------: |
+| Content Cell | Content Cell  | Content Cell | Content Cell  |
+| Content Cell | Content Cell  | Content Cell | Content Cell  |
+| Content Cell | Content Cell  | Content Cell | Content Cell  |
+| Content Cell | Content Cell  | Content Cell | Content Cell  |
 
 ```
-First Header  | Second Header
+|First Header  | Second Header | Third Header | Fourth Header |
+| :----------: | :-----------: | :----------: | :-----------: |
+| Content Cell | Content Cell  | Content Cell | Content Cell  |
+| Content Cell | Content Cell  | Content Cell | Content Cell  |
+| Content Cell | Content Cell  | Content Cell | Content Cell  |
+| Content Cell | Content Cell  | Content Cell | Content Cell  |
+```
+
+```
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
@@ -174,7 +188,7 @@ var specificLanguage_code = {
 };
 ```
 
-    Markup : ```javascript
+     ```javascript
              ```
 
 <a href="#index" >Index</a>
@@ -240,20 +254,75 @@ var specificLanguage_code = {
 >
 > > Nested blockquote
 
-    Markup :  > Blockquote
-              >> Nested Blockquote
+```
+    > Blockquote
+    >> Nested Blockquote
+```
 
-<a name="index" >Index</a>
+> ##### Checklist
+>
+> - [x] Task 1
+> - [ ] Task 2
+> - [ ] Task 3
+>
+>   > ##### List
+>   >
+>   > - List Item
+>   >   - Sub List Item
+>   > - Another Item
+>   > - Another Item
+
+```
+> ##### Checklist
+>
+>   - [x] Task 1
+>   - [ ] Task 2
+>   - [ ] Task 3
+>> ##### List
+>>
+>>  - List Item
+>>      - Sub List Item
+>>  - Another Item
+>>  - Another Item
+```
+
+> ##### With a Table
+>
+> > **Title**
+> > Left aligned | Right aligned | Center aligned
+> > | :--- | ---: | :---:
+> > Content Cell | Content Cell | Content Cell
+> > Content Cell | Content Cell | Content Cell
+> >
+> > _\*Note to remember_
+>
+> And on with the table
+
+```
+> ##### With a Table
+>
+>> **Title**
+>> Left aligned Header | Right aligned Header | Center aligned Header
+>> | :--- | ---: | :---:
+>> Content Cell  | Content Cell | Content Cell
+>> Content Cell  | Content Cell | Content Cell
+>>
+>> _*Note to remember_
+>
+> And on with the table
+```
+
+<a href="#index" >Index</a>
 
 ### Horizontal line
 
-<a name="hr" />
+<a idd="hr" />
 
 _Horizontal line :_
 
 ---
 
-    Markup :  - - - -
+      - - - -
 
 <a name="index" >Index</a>
 
@@ -265,7 +334,7 @@ _Image with alt :_
 
 ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
-    Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+     ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
 Foldable text:
 
@@ -290,10 +359,10 @@ Foldable text:
 
 Link to a specific part of the page:
 
-[Go To TOP](#TOP)
+[Go To TOP](#index)
 
-    Markup : [text goes here](#section_name)
-              section_title<a name="section_name"></a>
+    [text goes here](#section_name)
+    section_title<a name="section_name"></a>
 
 Hotkey:
 
