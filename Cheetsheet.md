@@ -6,15 +6,21 @@
 
 [Emphasis](#emphasis)
 
-[Definitions](#definitions)
+[Tables](#tables)
 
-[Emphasis](#emphasis)
+[Code block](#code)
 
 [Lists](#lists)
 
+[Blockquote](#blockquote)
+
+[Emphasis](#emphasis)
+
+[Horizontal Line](#hr)
+
 [Task Lists](#task-lists)
 
-[Code block](#codeblock)
+[Definitions](#definitions)
 
 [Horizontal Rule](#hr)
 
@@ -58,18 +64,18 @@
 
 ### Emphasis{#emphasis}
 
-<a name="emphasis" />
+<a id="emphasis" />
 Common text
 
-    Markup :  Common text
+    Common text
 
 _Emphasized text_
 
-    Markup :  _Emphasized text_ or *Emphasized text*
+    _Emphasized text_ or *Emphasized text*
 
 ~~Strikethrough text~~
 
-    Markup :  ~~Strikethrough text~~
+    ~~Strikethrough text~~
 
 **Strong text**
 
@@ -90,6 +96,8 @@ _Emphasized text_
 <a id="enphasis" href="#index">Index</a>
 
 ### Tables
+
+<a id="tables" />
 
 Table, like this one :
 
@@ -133,6 +141,12 @@ Content Cell  | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell
 ```
 
+<a href="#index" >Index</a>
+
+### Code
+
+<a id="code" />
+
 `code()`
 
     Markup :  `code()`
@@ -155,6 +169,12 @@ var specificLanguage_code = {
 
     Markup : ```javascript
              ```
+
+<a href="#index" >Index</a>
+
+### Lists
+
+<a id="lists" />
 
 - Bullet list
   - Nested bullet
@@ -181,10 +201,10 @@ var specificLanguage_code = {
 2. Which is numbered
 
 ```
- Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
+ Markup :   1. A numbered list
+                1. A nested numbered list
+                2. Which is numbered
+            2. Which is numbered
 ```
 
 - [ ] An uncompleted task
@@ -203,6 +223,12 @@ var specificLanguage_code = {
               - [ ] A subtask
 ```
 
+<a name="index" >Index</a>
+
+### Blockquote
+
+<a name="blockquote" />
+
 > Blockquote
 >
 > > Nested blockquote
@@ -210,11 +236,23 @@ var specificLanguage_code = {
     Markup :  > Blockquote
               >> Nested Blockquote
 
+<a name="index" >Index</a>
+
+### Horizontal line
+
+<a name="hr" />
+
 _Horizontal line :_
 
 ---
 
     Markup :  - - - -
+
+<a name="index" >Index</a>
+
+### Images
+
+<a name="images" />
 
 _Image with alt :_
 
