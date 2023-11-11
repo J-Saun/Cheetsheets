@@ -8,33 +8,33 @@
 
 <a id="index" />
 
-I. [Headings](#headers)
+[Headings](#headers)
 
-II. [Emphasis](#emphasis)
+[Emphasis](#emphasis)
 
-III. [Blockquote](#blockquote)
+[Blockquote](#blockquote)
 
-IV. [Code block](#codeblock)
+[Code block](#codeblock)
 
-V. [Lists](#lists)
+[Lists](#lists)
 
-VI. [Task Lists](#task-lists)
+[Task Lists](#task-lists)
 
-VII. [Definitions](#definitions)
+[Definitions](#definitions)
 
-VIII. [Tables](#tables)
+[Tables](#tables)
 
-IX. [Annotations](#annotations)
+[Annotations](#annotations)
 
-X. [HTML](#html)
+[HTML](#html)
 
-XI. [Foldable text](#fold-text)
+[Foldable text](#fold-text)
 
-XII. [Tables](#tables)
+[Tables](#tables)
 
-XIII. [Combinations](#combinations)
+[Combinations](#combinations)
 
-XIV. [create an anchor](#anchors-in-markdown)
+[create an anchor](#anchors-in-markdown)
 
 <br>
 
