@@ -96,10 +96,13 @@ _Emphasized text_
 
 ```
     _Emphasized text_
+
 ```
 
 ```
+
     *Emphasized text*
+
 ```
 
 ~~Strikethrough text~~
@@ -109,22 +112,30 @@ _Emphasized text_
 **Strong text**
 
 ```
-      __Strong text__
+
+    __Strong text__
+
 ```
 
 ```
-       **Strong text**
+
+    **Strong text**
+
 ```
 
 **_Strong emphasized text_**
 
 ```
-      ___Strong emphasized text___
+
+    ___Strong emphasized text___
+
 ```
 
-      ```
-       ***Strong emphasized text***
-      ```
+    ```
+
+        ***Strong emphasized text***
+
+    ```
 
 <br>
 <a href="#index">ꜛ Index</a>
