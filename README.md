@@ -1,4 +1,4 @@
-### Markdown Cheetsheet {#home}
+### Markdown Cheetsheet { #home }
 
 <hr>
 
@@ -7,17 +7,17 @@
 - [Code block](#codeblock)
 
 - [Lists](#lists)
--
+
 - [Task Lists](#task-lists)
--
+
 - [Emphasis](#emphasis)
--
+
 - [Horizontal Rule](#hr)
--
+
 - [HTML](#html)
--
+
 - [Combinations](#combinations)
--
+
 - [create an anchor](#anchors-in-markdown)
 
 <br>
