@@ -92,25 +92,29 @@ Using two asterisks **this text is bold**.
   **Text Here**
 ```
 
-Two underscores **works as well**.
+<br>
+
+Lets make it _Italic_.
 
 ```
 __Text Here__
 ```
 
-Lets make it _Italic_.
+or
 
 ```
 _Text Here_
 ```
 
-_One underscore is also enough_.<br>
+<br>
 
 Combine _*both of them*_.
 
 ```
 _*Text Here*_
 ```
+
+##### Subscript/superscript
 
 Subscript? H-2-0.<br>
 Superscript? x \* x^2.<br>
