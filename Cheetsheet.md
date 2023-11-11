@@ -1,8 +1,4 @@
-<style>backgroundColor: red;</style>
-
 # Markdown Cheatsheet<a name="TOP"></a>
-
-<img style="backgroundColor: black;width:500px;height:500px;" src="img.svg" alt="" />
 
 ### Index
 
