@@ -22,14 +22,14 @@
 
 ### Emphasis
 
-Using two asterisks **this text is bold**.
-Two underscores **works as well**.
-Lets make it _Italic_.
-You guessed it, _one underscore is also enough_.
-Can we combine _*both of them?*_ Absolutely.
-Subscript? H-2-0.
-Superscript? x \* x^2.
-We can also ==highlight something?
+Using two asterisks **this text is bold**.<br>
+Two underscores **works as well**.<br>
+Lets make it _Italic_.<br>
+You guessed it, _one underscore is also enough_.<br>
+Can we combine _*both of them?*_ Absolutely.<br>
+Subscript? H-2-0.<br>
+Superscript? x \* x^2.<br>
+We can also ==highlight something?<br>
 
 ### Block quotes {#block-quotes}
 
