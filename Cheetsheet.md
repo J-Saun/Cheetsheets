@@ -32,7 +32,7 @@
 
 [create an anchor](#anchors-in-markdown)
 
----
+<br><br>
 
 ### References
 
@@ -40,13 +40,13 @@
 
 [Unicode]("https://www.compart.com/en/unicode/")
 
+<br>
 <a href="#index">ꜛ Index</a>
+<br><br>
 
 ### Headings
 
 <a id="headings"></a>
-
----
 
 # Heading 1
 
@@ -80,7 +80,9 @@
 
       ##### Heading 5
 
----
+<br>
+<a href="#index">ꜛ Index</a>
+<br><br>
 
 ### Emphasis
 
@@ -124,7 +126,9 @@ _Emphasized text_
        ***Strong emphasized text***
       ```
 
+<br>
 <a href="#index">ꜛ Index</a>
+<br><br>
 
 ### Links
 
@@ -149,6 +153,8 @@ _Emphasized text_
 | Content Cell | Content Cell  |
 | Content Cell | Content Cell  |
 
+Small Table -
+
 ```
 | First Header | Second Header |
 | ------------ | ------------- |
@@ -162,6 +168,8 @@ _Emphasized text_
 | Content Cell | Content Cell  | Content Cell | Content Cell  |
 | Content Cell | Content Cell  | Content Cell | Content Cell  |
 | Content Cell | Content Cell  | Content Cell | Content Cell  |
+
+Large Table -
 
 ```
 |First Header  | Second Header | Third Header | Fourth Header |
@@ -200,7 +208,9 @@ Content Cell  | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell
 ```
 
-<a href="#index" >ꜛ Index</a>
+<br>
+<a href="#index">ꜛ Index</a>
+<br><br>
 
 ### Code
 
@@ -231,7 +241,9 @@ var specificLanguage_code = {
      ```javascript
              ```
 
-<a href="#index" >ꜛ Index</a>
+<br>
+<a href="#index">ꜛ Index</a>
+<br><br>
 
 ### Lists
 
@@ -284,7 +296,9 @@ var specificLanguage_code = {
               - [ ] A subtask
 ```
 
-<a name="index" >Index</a>
+<br>
+<a href="#index">ꜛ Index</a>
+<br><br>
 
 ### Blockquote
 
@@ -294,10 +308,14 @@ var specificLanguage_code = {
 >
 > > Nested blockquote
 
+<br>
+
 ```
     > Blockquote
     >> Nested Blockquote
 ```
+
+Insert a checklist or list
 
 > ##### Checklist
 >
@@ -326,7 +344,9 @@ var specificLanguage_code = {
 >>  - Another Item
 ```
 
-> ##### With a Table
+Insert a table
+
+> With a Table inside
 >
 > > **Title**
 > > Left aligned | Right aligned | Center aligned
@@ -352,7 +372,9 @@ var specificLanguage_code = {
 > And on with the table
 ```
 
-<a href="#index" >ꜛ Index</a>
+<br>
+<a href="#index">ꜛ Index</a>
+<br><br>
 
 ### Horizontal line
 
@@ -364,7 +386,9 @@ _Horizontal line :_
 
       - - - -
 
-<a name="index" >Index</a>
+<br>
+<a href="#index">ꜛ Index</a>
+<br><br>
 
 ### Images
 
@@ -399,7 +423,7 @@ Foldable text:
 
 Link to a specific part of the page:
 
-[ꜛ Go To TOP](#index)
+[ꜛ Go To TOP](#TOP)
 
     [text goes here](#section_name)
     section_title<a name="section_name"></a>
@@ -410,7 +434,7 @@ Hotkey:
 
 <kbd>⇧⌘F</kbd>
 
-    Markup : <kbd>⌘F</kbd>
+    <kbd>⌘F</kbd>
 
 Hotkey list:
 
