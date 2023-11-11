@@ -4,26 +4,31 @@
 
 <a href="cheatsheet.md">Cheatsheet</a>
 
-- [Definitions](#definitions)
+[Headers](#headers)
 
-- [Code block](#codeblock)
+[Emphasis](#emphasis)
 
-- [Lists](#lists)
+[Blockquote](#blockquote)
 
-- [Task Lists](#task-lists)
+[Code block](#codeblock)
 
-- [Emphasis](#emphasis)
+[Lists](#lists)
 
-- [Horizontal Rule](#hr)
+[Task Lists](#task-lists)
 
-- [HTML](#html)
+[Definitions](#definitions)
 
-- [Combinations](#combinations)
+[Horizontal Rule](#hr)
 
-- [create an anchor](#anchors-in-markdown)
+[HTML](#html)
+
+[Combinations](#combinations)
+
+[create an anchor](#anchors-in-markdown)
 
 <br>
 
+<a id="headers" />
 # Heading 1
 
 ```
@@ -55,10 +60,12 @@
 ```
 
 <br>
+<a href="#index">ꜛ Index</a>
+<br><br>
 
 ### Emphasis
 
-<a id="enphasis" href="#home">Index</a>
+<a id="emphasis" />
 
 Using two asterisks **this text is bold**.
 
@@ -80,7 +87,7 @@ _Text Here_
 
 _One underscore is also enough_.<br>
 
-Combine _*both of them?*_ .
+Combine _*both of them*_.
 
 ```
 _*Text Here*_
@@ -92,7 +99,9 @@ We can also ==highlight something?<br>
 
 <br>
 
-### Block quotes {#block-quotes}
+### Blockquote
+
+<a id="blockquote" />
 
 > This is a block quote.
 > Next line with space in between.
