@@ -103,6 +103,8 @@ _Emphasized text_
 
 ```
 
+or
+
 ```
 
     *Emphasized text*
@@ -121,6 +123,8 @@ _Emphasized text_
 
 ```
 
+or
+
 ```
 
     **Strong text**
@@ -130,16 +134,15 @@ _Emphasized text_
 **_Strong emphasized text_**
 
 ```
-
     ___Strong emphasized text___
 
 ```
 
-    ```
+or
 
-        ***Strong emphasized text***
-
-    ```
+```
+    ***Strong emphasized text***
+```
 
 <br>
 <a href="#index">ꜛ Index</a>
@@ -151,11 +154,11 @@ _Emphasized text_
 
 [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
-      [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+    [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
 [heading-1](#heading-1 "Goto heading-1")
 
-     [heading-1](#heading-1 "Goto heading-1")
+    [heading-1](#heading-1 "Goto heading-1")
 
 <a href="#index">ꜛ Index</a>
 
