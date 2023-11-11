@@ -1,12 +1,15 @@
 ### Markdown Cheetsheet {#home}
 
+
 <hr>
+
+[Definitions](#definitions)
 
 - (#codeblock)
 
 - [Lists](#lists)
 - 
-- [Definitions](#definitions)
+- 
 - 
 - [Task Lists](#task-lists)
 - 
