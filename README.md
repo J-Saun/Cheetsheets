@@ -2,6 +2,8 @@
 
 <hr>
 
+<a href="cheatsheet.md">Cheatsheet</a>
+
 - [Definitions](#definitions)
 
 - [Code block](#codeblock)
@@ -24,13 +26,33 @@
 
 # Heading 1
 
+```
+  # Heading 1
+```
+
 ## Heading 2
+
+```
+  ## Heading 2
+```
 
 ### Heading 3
 
+```
+  ### Heading 3
+```
+
 #### Heading 4
 
+```
+  #### Heading 4
+```
+
 ##### Heading 5
+
+```
+  ##### Heading 5
+```
 
 <br>
 
@@ -38,11 +60,32 @@
 
 <a id="enphasis" href="#home">Index</a>
 
-Using two asterisks **this text is bold**.<br>
-Two underscores **works as well**.<br>
-Lets make it _Italic_.<br>
-You guessed it, _one underscore is also enough_.<br>
-Can we combine _*both of them?*_ Absolutely.<br>
+Using two asterisks **this text is bold**.
+
+```
+  **Text Here**
+```
+
+Two underscores **works as well**.
+
+```
+__Text Here__
+```
+
+Lets make it _Italic_.
+
+```
+_Text Here_
+```
+
+_One underscore is also enough_.<br>
+
+Combine _*both of them?*_ .
+
+```
+_*Text Here*_
+```
+
 Subscript? H-2-0.<br>
 Superscript? x \* x^2.<br>
 We can also ==highlight something?<br>
