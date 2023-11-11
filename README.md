@@ -3,6 +3,7 @@
 
 <hr>
 
+<<<<<<< ours
 [Definitions](#definitions)
 
 - (#codeblock)
@@ -17,6 +18,16 @@
 =======
 - 
 >>>>>>> 4e8c872fd414fd09a7b9d7553d1cc1425c5f802a
+=======
+- [Codeblock](#codeblock)
+
+- [Lists](#lists)
+- 
+- [Definitions](#definitions)
+- 
+- [Task Lists](#task-lists)
+- 
+>>>>>>> theirs
 - [Horizontal Rule](#hr)
 - 
 - [HTML](#html)
