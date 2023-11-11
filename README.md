@@ -1,3 +1,3 @@
 # Cheetsheets
 
-[MD Cheatsheet](MDCheaatsheet.md)
+[MD Cheatsheet](MDCheatsheet.md)
