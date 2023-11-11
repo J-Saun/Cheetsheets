@@ -34,31 +34,31 @@
 
 # Heading 1
 
-    Markup :  # Heading 1
+    # Heading 1
 
     -OR-
 
-    Markup :  ============= (below H1 text)
+    ============= (below H1 text)
 
 ## Heading 2
 
-    Markup :  ## Heading 2
+      ## Heading 2
 
     -OR-
 
-    Markup: --------------- (below H2 text)
+     --------------- (below H2 text)
 
 ### Heading 3
 
-    Markup :  ### Heading 3
+      ### Heading 3
 
 #### Heading 4
 
-    Markup :  #### Heading 4
+      #### Heading 4
 
 ##### Heading 5
 
-    Markup :  ##### Heading 5
+      ##### Heading 5
 
 ---
 
@@ -67,7 +67,7 @@
 <a id="emphasis" />
 Common text
 
-    Common text
+    Just add txt to the md file
 
 _Emphasized text_
 
@@ -79,19 +79,19 @@ _Emphasized text_
 
 **Strong text**
 
-    Markup :  __Strong text__ or **Strong text**
+      __Strong text__ or **Strong text**
 
 **_Strong emphasized text_**
 
-    Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
+      ___Strong emphasized text___ or ***Strong emphasized text***
 
 [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
-    Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+      [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
 [heading-1](#heading-1 "Goto heading-1")
 
-    Markup: [heading-1](#heading-1 "Goto heading-1")
+     [heading-1](#heading-1 "Goto heading-1")
 
 <a id="enphasis" href="#index">Index</a>
 
@@ -99,12 +99,19 @@ _Emphasized text_
 
 <a id="tables" />
 
-Table, like this one :
+Table (copy to start the table) :
 
 | First Header | Second Header |
 | ------------ | ------------- |
 | Content Cell | Content Cell  |
 | Content Cell | Content Cell  |
+
+Table (copy to add to the table) :
+
+| Another Header | Another Header |
+| -------------- | -------------- |
+| Content Cell   | Content Cell   |
+| Content Cell   | Content Cell   |
 
 ```
 First Header  | Second Header
