@@ -34,11 +34,15 @@
 
 # Heading 1
 
+```
     # Heading 1
+```
 
     -OR-
 
+```
     ============= (below H1 text)
+```
 
 ## Heading 2
 
