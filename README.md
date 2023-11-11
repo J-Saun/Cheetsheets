@@ -8,31 +8,33 @@
 
 <a id="index" />
 
-[Headings](#headers)
+I. [Headings](#headers)
 
-[Emphasis](#emphasis)
+II. [Emphasis](#emphasis)
 
-[Blockquote](#blockquote)
+III. [Blockquote](#blockquote)
 
-[Code block](#codeblock)
+IV. [Code block](#codeblock)
 
-[Lists](#lists)
+V. [Lists](#lists)
 
-[Task Lists](#task-lists)
+VI. [Task Lists](#task-lists)
 
-[Definitions](#definitions)
+VII. [Definitions](#definitions)
 
-[Tables](#tables)
+VIII. [Tables](#tables)
 
-[Annotations](#annotations)
+IX. [Annotations](#annotations)
 
-[Foldable text](#fold-text)
+X. [HTML](#html)
 
-[Tables](#tables)
+XI. [Foldable text](#fold-text)
 
-[Combinations](#combinations)
+XII. [Tables](#tables)
 
-[create an anchor](#anchors-in-markdown)
+XIII. [Combinations](#combinations)
+
+XIV. [create an anchor](#anchors-in-markdown)
 
 <br>
 
@@ -320,28 +322,6 @@ Content Cell  | Content Cell | Content Cell
 [1]: Stack is: React, typescript, Tailwind CSS
 
 Project is about movies and music
-
-Link to headers
-
-[Jump to header below](#some-id)
-
-...
-
-### Heading with id {#some-id}
-
-[Index](#home)
-
-<br>
-
-### Horizontal Rule {#hr}
-
-First Horizontal rule
-
----
-
-Second HR
-
----
 
 <br>
 
