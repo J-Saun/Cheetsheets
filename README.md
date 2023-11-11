@@ -22,9 +22,13 @@
 
 [Definitions](#definitions)
 
-[Horizontal Rule](#hr)
+[Tables](#tables)
 
-[HTML](#html)
+[Annotations](#annotations)
+
+[Foldable text](#fold-text)
+
+[Tables](#tables)
 
 [Combinations](#combinations)
 
@@ -42,9 +46,9 @@
 <a href="#index">ꜛ Index</a>
 <br><br>
 
-# Heading 1
-
 <a id="headers" />
+
+# Heading 1
 
 ```
   # Heading 1
@@ -126,6 +130,8 @@ We can also ==highlight something?<br>
 > > And nested.
 > >
 > > > You can **style** your text _as you want_.
+
+<br>
 
 ```
 > This is a block quote.
@@ -229,6 +235,10 @@ React.js
 Next.js
 : The React framework
 
+<br>
+<a href="#index">ꜛ Index</a>
+<br><br>
+
 ### Tables
 
 <a id="tables" />
@@ -296,6 +306,10 @@ Content Cell  | Content Cell | Content Cell
 <br>
 <a href="#index">ꜛ Index</a>
 <br><br>
+
+### Annotation
+
+<a id="annotation" />
 
 #### I am working on a project. [^1]
 
@@ -365,7 +379,7 @@ _Image with alt :_
 
 ### Foldable text
 
-<a id="foldable-text />
+<a id="fold-text" />
 
 <details>
   <summary>Title 1</summary>
