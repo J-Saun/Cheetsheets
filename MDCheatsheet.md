@@ -29,7 +29,7 @@
 
 [Tables](#tables)
 
-[Annotations](#annotations)
+s[Annotations](#annotations)
 
 [HTML](#html)
 
@@ -326,6 +326,26 @@ Content Cell  | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell
 ```
 
+| ProjectName  |                         View code                         |                                   Docs                                    |       Hosted       | Stack |
+| :----------: | :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------: | :---: |
+|  Portfolio   |                   <a href="#">❮／❯</a>                    |                             <a href="#">🗎</a>                             | <a href="#">🌐</a> | LAMP  |
+| LAMP project |                   <a href="#">❮／❯</a>                    |                             <a href="#">🗎</a>                             | <a href="#">🌐</a> | LAMP  |
+|  Portfolio   |                   <a href="#">❮／❯</a>                    |                             <a href="#">🗎</a>                             | <a href="#">🌐</a> | MERN  |
+|  Recipe App  |  <a href="https://github.com/J-Saun/JCA_recipe">❮／❯</a>  | <a href="https://github.com/J-Saun/JCA_recipe/blob/master/README.md">🗎<a> | <a href="#">🌐</a> | MERN  |
+| Recreational |  <a href="https://github.com/J-Saun/yelp_camp">❮／❯</a>   |        <a href="https://github.com/J-Saun/yelp_camp#readme">🗎</a>         | <a href="#">🌐</a> | MERN  |
+| Fractal Tree | <a href="https://github.com/J-Saun/Fractal-Tree">❮／❯</a> |       <a href="https://github.com/J-Saun/Fractal-Tree#readme">🗎</a>       | <a href="#">🌐</a> | React |
+
+```
+| ProjectName  |                         View code                         |                                   Docs                                    |                     Hosted           | Stack |
+| :----------: | :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------------------------: | :---: |
+|  Portfolio   |          <a href="link-to-repo-home-page">❮／❯</a>        |                <a href="link-to-repo-readme-page">🗎</a>                   | <a href="link-to-hosted-site">🌐</a> | LAMP  |
+| LAMP project |          <a href="link-to-repo-home-page">❮／❯</a>        |                <a href="link-to-repo-readme-page">🗎</a>                   | <a href="link-to-hosted-site">🌐</a> | LAMP  |
+|  Calculator  |          <a href="link-to-repo-home-page">❮／❯</a>        |                <a href="link-to-repo-readme-page">🗎</a>                   | <a href="link-to-hosted-site">🌐</a> | MERN  |
+|  Recipe App  |          <a href="link-to-repo-home-page">❮／❯</a>        |                <a href="link-to-repo-readme-page">🗎<a>                    | <a href="link-to-hosted-site">🌐</a> | MERN  |
+|  ToDo List   |          <a href="link-to-repo-home-page">❮／❯</a>        |                <a href="link-to-repo-readme-page">🗎</a>                   | <a href="link-to-hosted-site">🌐</a> | MERN  |
+|   FizzBuzz   |          <a href="link-to-repo-home-page">❮／❯</a>        |                <a href="link-to-repo-readme-page">🗎</a>                   | <a href="link-to-hosted-site">🌐</a> | React |
+```
+
 <br>
 <a href="#index">ꜛ Index</a>
 <br><br>
@@ -442,3 +462,5 @@ Emoji:
 :exclamation: Use emoji icons to enhance text. :+1: Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
 
     Markup : Code appears between colons :EMOJICODE:
+
+S
