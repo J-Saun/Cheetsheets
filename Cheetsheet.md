@@ -420,7 +420,13 @@ _Image with alt :_
 
      ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
-Foldable text:
+<br>
+<a href="#index">ꜛ Index</a>
+<br><br>
+
+### Foldable text
+
+<a id="foldable-text />
 
 <details>
   <summary>Title 1</summary>
