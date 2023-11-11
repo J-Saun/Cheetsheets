@@ -1,8 +1,8 @@
 # Markdown Cheatsheet<a name="TOP"></a>
 
----
+### Index
 
-### Index{#index}
+<a id="index"></a>
 
 [Emphasis](#emphasis)
 
