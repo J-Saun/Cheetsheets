@@ -205,7 +205,7 @@ Adding a pipe `|` in a cell :
 | First Header | Second Header |
 | ------------ | ------------- |
 | Content Cell | Content Cell  |
-| Content Cell | \| <-- pipe   |
+| Content Cell | \|            |
 
 ```
 First Header  | Second Header
