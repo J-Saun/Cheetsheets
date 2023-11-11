@@ -1,11 +1,14 @@
 ### Markdown Cheetsheet {#home}
 
-[Codeblock](#codeblock)<br>
-[Lists](#lists)<br>
-[Definitions](#definitions)<br>
-[Task Lists](#task-lists)<br>
-[Horizontal Rule](#hr)<br>
-[HTML](#html)<br>
+<hr>
+
+- [Codeblock](#codeblock)
+- [Lists](#lists)
+- [Definitions](#definitions)
+- [Task Lists](#task-lists)
+- [Horizontal Rule](#hr)
+- [HTML](#html)<br>
+- [Combinations](#combinations)
 
 # Heading 1
 
@@ -27,6 +30,8 @@ Can we combine _*both of them?*_ Absolutely.
 Subscript? H-2-0.
 Superscript? x \* x^2.
 We can also ==highlight something?
+
+### Block quotes {#block-quotes}
 
 > This is a block quote.
 > Next line with space in between.
@@ -127,7 +132,7 @@ Second HR
 
 <p>Paragraph...</p>
 
-<a href="#">Link</a>
+<a href="#">Html Link</a>
 
 <br>
 <br>
@@ -140,3 +145,35 @@ Second HR
 - Easy
 - Simple
 </details>
+
+### Combinations {#combinations}
+
+---
+
+#### Block quotes, Tables, & checklist
+
+> ##### Add a checklists to the first layer of a blockquote
+>
+> - [x] Learn Markdown
+> - [ ] Learn Frontend Dev
+> - [ ] Learn Full Stack Dec
+>
+> Next line with space in between.
+>
+> > And nested inside is a table.
+> >
+> > > You can **style** your section _as you want_.
+> >
+> > | TH       |   TH    |      TH |
+> > | :------- | :-----: | ------: |
+> > | React.js | Node.js |   MySQL |
+> > | Next.js  | Express | MongoDB |
+> > | Vue.js   | Next.js |         |
+> >
+> > > Add a horizontal rule
+> >
+> > ## and keep nesting
+> >
+> > End of Example
+
+[Index](#home)
