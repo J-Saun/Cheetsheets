@@ -1,8 +1,7 @@
-### Markdown Cheetsheet
+# Markdown Cheetsheet
 
 <a id="TOP" />
 
-<hr>
 <a href="cheatsheet.md">← ReadMe</a>
 
 ### Index
