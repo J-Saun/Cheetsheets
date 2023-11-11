@@ -1,3 +1,5 @@
+<style>backgroundColor: red;</style>
+
 # Markdown Cheatsheet<a name="TOP"></a>
 
 ### Index
@@ -63,13 +65,13 @@ or
 ## Heading 2
 
 ```
-      ## Heading 2
+    ## Heading 2
 ```
 
 or
 
 ```
-     --------------- (below H2 text)
+    --------------- (below H2 text)
 ```
 
 ### Heading 3
