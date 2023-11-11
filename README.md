@@ -1,38 +1,23 @@
 ### Markdown Cheetsheet {#home}
 
-
 <hr>
 
-<<<<<<< ours
-[Definitions](#definitions)
-
-- (#codeblock)
-
-- [Lists](#lists)
-- 
-- 
-- 
-- [Task Lists](#task-lists)
-<<<<<<< HEAD
-- [Emphasis](#emphasis)
-=======
-- 
->>>>>>> 4e8c872fd414fd09a7b9d7553d1cc1425c5f802a
-=======
-- [Codeblock](#codeblock)
-
-- [Lists](#lists)
-- 
 - [Definitions](#definitions)
-- 
+
+- [Code block](#codeblock)
+
+- [Lists](#lists)
+-
 - [Task Lists](#task-lists)
-- 
->>>>>>> theirs
+-
+- [Emphasis](#emphasis)
+-
 - [Horizontal Rule](#hr)
-- 
+-
 - [HTML](#html)
-- 
+-
 - [Combinations](#combinations)
+-
 - [create an anchor](#anchors-in-markdown)
 
 <br>
