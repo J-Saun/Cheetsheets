@@ -96,11 +96,12 @@ Common text
 
     Just add txt to the md file
 
+<br>
+
 _Emphasized text_
 
 ```
     __Emphasized text__
-
 ```
 
 or
@@ -111,31 +112,32 @@ or
 
 ```
 
+<br>
+
 ~~Strikethrough text~~
 
     ~~Strikethrough text~~
 
+<br>
+
 **Strong text**
 
 ```
-
     __Strong text__
-
 ```
 
 or
 
 ```
-
     **Strong text**
-
 ```
+
+<br>
 
 **_Strong emphasized text_**
 
 ```
     ___Strong emphasized text___
-
 ```
 
 or
