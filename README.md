@@ -4,7 +4,7 @@
 
 <a href="cheatsheet.md">Cheatsheet</a>
 
-[Headers](#headers)
+[Headings](#headers)
 
 [Emphasis](#emphasis)
 
@@ -71,7 +71,7 @@
 Using two asterisks **this text is bold**.
 
 ```
-  **Text Here**
+  Text Here
 ```
 
 Two underscores **works as well**.
