@@ -1,4 +1,4 @@
-# Markdown Cheetsheet
+# Markdown Cheatsheet
 
 <a id="TOP" />
 <br>
