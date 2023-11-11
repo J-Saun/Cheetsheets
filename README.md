@@ -4,7 +4,7 @@
 
 <a href="cheatsheet.md">← Back to ReadMe</a>
 
-### Index
+## Index
 
 <a id="index" />
 
