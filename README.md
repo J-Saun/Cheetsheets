@@ -1,8 +1,9 @@
 <br>
 
+<a id="TOP" />
+
 # Markdown Cheatsheet
 
-<a id="TOP" />
 <br>
 
 <a href="cheatsheet.md">← Back to ReadMe</a>
@@ -341,7 +342,9 @@ Project is about movies and music
 
 <br>
 
-### HTML {#html}
+### HTML
+
+<a id="html" />
 
 <h1>This is a heading</h1>
 
