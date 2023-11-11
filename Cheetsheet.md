@@ -60,6 +60,8 @@ or
     ============= (below H1 text)
 ```
 
+<br>
+
 ## Heading 2
 
 ```
@@ -72,13 +74,19 @@ or
     --------------- (below H2 text)
 ```
 
+<br>
+
 ### Heading 3
 
       ### Heading 3
 
+<br>
+
 #### Heading 4
 
       #### Heading 4
+
+<br>
 
 ##### Heading 5
 
