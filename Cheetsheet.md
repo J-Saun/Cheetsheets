@@ -2,7 +2,7 @@
 
 ### Index
 
-<a id="index"></a>
+<a id="index" />
 
 [Emphasis](#emphasis)
 
@@ -54,6 +54,8 @@
     # Heading 1
 ```
 
+or
+
 ```
     ============= (below H1 text)
 ```
@@ -63,6 +65,8 @@
 ```
       ## Heading 2
 ```
+
+or
 
 ```
      --------------- (below H2 text)
@@ -95,7 +99,7 @@ Common text
 _Emphasized text_
 
 ```
-    _Emphasized text_
+    __Emphasized text__
 
 ```
 
