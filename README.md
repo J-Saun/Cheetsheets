@@ -3,12 +3,21 @@
 <hr>
 
 - [Codeblock](#codeblock)
+
 - [Lists](#lists)
+- 
 - [Definitions](#definitions)
+- 
 - [Task Lists](#task-lists)
+<<<<<<< HEAD
 - [Emphasis](#emphasis)
+=======
+- 
+>>>>>>> 4e8c872fd414fd09a7b9d7553d1cc1425c5f802a
 - [Horizontal Rule](#hr)
-- [HTML](#html)<br>
+- 
+- [HTML](#html)
+- 
 - [Combinations](#combinations)
 - [create an anchor](#anchors-in-markdown)
 
