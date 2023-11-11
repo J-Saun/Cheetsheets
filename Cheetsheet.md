@@ -162,7 +162,9 @@ or
 
     Goto heading-1: [heading-1](#heading-1 )
 
+<br>
 <a href="#index">ꜛ Index</a>
+<br><br>
 
 ### Tables
 
