@@ -78,19 +78,19 @@ or
 
 ### Heading 3
 
-      ### Heading 3
+    ### Heading 3
 
 <br>
 
 #### Heading 4
 
-      #### Heading 4
+    #### Heading 4
 
 <br>
 
 ##### Heading 5
 
-      ##### Heading 5
+    ##### Heading 5
 
 <br>
 <a href="#index">ꜛ Index</a>
