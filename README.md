@@ -3,11 +3,17 @@
 <hr>
 
 - [Codeblock](#codeblock)
+
 - [Lists](#lists)
+- 
 - [Definitions](#definitions)
+- 
 - [Task Lists](#task-lists)
+- 
 - [Horizontal Rule](#hr)
-- [HTML](#html)<br>
+- 
+- [HTML](#html)
+- 
 - [Combinations](#combinations)
 
 # Heading 1
