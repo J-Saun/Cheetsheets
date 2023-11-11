@@ -6,9 +6,13 @@
 - [Lists](#lists)
 - [Definitions](#definitions)
 - [Task Lists](#task-lists)
+- [Emphasis](#emphasis)
 - [Horizontal Rule](#hr)
 - [HTML](#html)<br>
 - [Combinations](#combinations)
+- [create an anchor](#anchors-in-markdown)
+
+<br>
 
 # Heading 1
 
@@ -20,7 +24,11 @@
 
 ##### Heading 5
 
+<br>
+
 ### Emphasis
+
+<a id="enphasis" href="#home">Index</a>
 
 Using two asterisks **this text is bold**.<br>
 Two underscores **works as well**.<br>
@@ -31,6 +39,8 @@ Subscript? H-2-0.<br>
 Superscript? x \* x^2.<br>
 We can also ==highlight something?<br>
 
+<br>
+
 ### Block quotes {#block-quotes}
 
 > This is a block quote.
@@ -39,6 +49,8 @@ We can also ==highlight something?<br>
 > > And nested.
 > >
 > > > You can **style** your text _as you want_.
+
+<br>
 
 ### Codeblock {#codeblock}
 
@@ -56,6 +68,8 @@ I created `.env` file at the root.
 const x = "Block code snippet in JS";
 console.log(x);
 ```
+
+<br>
 
 ### Lists {#lists}
 
@@ -76,6 +90,8 @@ console.log(x);
    - Svelte
      [Index](#home)
 
+<br>
+
 ### Definitions {#definitions}
 
 React.js
@@ -91,6 +107,8 @@ Next.js
 | Vue.js               |   Next.js    |             |
 
 [Index](#home)
+
+<br>
 
 ### Task Lists {#task-lists}
 
@@ -116,6 +134,8 @@ Link to headers
 
 [Index](#home)
 
+<br>
+
 ### Horizontal Rule {#hr}
 
 First Horizontal rule
@@ -125,6 +145,8 @@ First Horizontal rule
 Second HR
 
 ---
+
+<br>
 
 ### HTML {#html}
 
@@ -145,6 +167,8 @@ Second HR
 - Easy
 - Simple
 </details>
+
+<br>
 
 ### Combinations {#combinations}
 
