@@ -6,6 +6,8 @@
 
 [Emphasis](#emphasis)
 
+[Links](#links)
+
 [Tables](#tables)
 
 [Code block](#code)
@@ -32,6 +34,20 @@
 
 ---
 
+### References
+
+<a id="references"></a>
+
+[Unicode]("https://www.compart.com/en/unicode/")
+
+<a href="#index">ꜛ Index</a>
+
+### Headings
+
+<a id="headings"></a>
+
+---
+
 # Heading 1
 
 ```
@@ -44,11 +60,13 @@
 
 ## Heading 2
 
+```
       ## Heading 2
+```
 
-    -OR-
-
+```
      --------------- (below H2 text)
+```
 
 ### Heading 3
 
@@ -74,7 +92,13 @@ Common text
 
 _Emphasized text_
 
-    _Emphasized text_ or *Emphasized text*
+```
+    _Emphasized text_
+```
+
+```
+    *Emphasized text*
+```
 
 ~~Strikethrough text~~
 
@@ -82,11 +106,29 @@ _Emphasized text_
 
 **Strong text**
 
-      __Strong text__ or **Strong text**
+```
+      __Strong text__
+```
+
+```
+       **Strong text**
+```
 
 **_Strong emphasized text_**
 
-      ___Strong emphasized text___ or ***Strong emphasized text***
+```
+      ___Strong emphasized text___
+```
+
+      ```
+       ***Strong emphasized text***
+      ```
+
+<a href="#index">ꜛ Index</a>
+
+### Links
+
+<a id="links" />
 
 [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
@@ -96,7 +138,7 @@ _Emphasized text_
 
      [heading-1](#heading-1 "Goto heading-1")
 
-<a id="enphasis" href="#index">Index</a>
+<a href="#index">ꜛ Index</a>
 
 ### Tables
 
@@ -130,18 +172,12 @@ _Emphasized text_
 | Content Cell | Content Cell  | Content Cell | Content Cell  |
 ```
 
-```
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-```
-
 Adding a pipe `|` in a cell :
 
 | First Header | Second Header |
 | ------------ | ------------- |
 | Content Cell | Content Cell  |
-| Content Cell | \|            |
+| Content Cell | \| <-- pipe   |
 
 ```
 First Header  | Second Header
@@ -164,7 +200,7 @@ Content Cell  | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell
 ```
 
-<a href="#index" >Index</a>
+<a href="#index" >ꜛ Index</a>
 
 ### Code
 
@@ -172,7 +208,9 @@ Content Cell  | Content Cell | Content Cell
 
 `code()`
 
-    Markup :  `code()`
+    `code()`
+
+> Specify the language next to the ticks ex. ```javascript
 
 ```javascript
 var specificLanguage_code = {
@@ -193,7 +231,7 @@ var specificLanguage_code = {
      ```javascript
              ```
 
-<a href="#index" >Index</a>
+<a href="#index" >ꜛ Index</a>
 
 ### Lists
 
@@ -314,7 +352,7 @@ var specificLanguage_code = {
 > And on with the table
 ```
 
-<a href="#index" >Index</a>
+<a href="#index" >ꜛ Index</a>
 
 ### Horizontal line
 
@@ -361,7 +399,7 @@ Foldable text:
 
 Link to a specific part of the page:
 
-[Go To TOP](#index)
+[ꜛ Go To TOP](#index)
 
     [text goes here](#section_name)
     section_title<a name="section_name"></a>
