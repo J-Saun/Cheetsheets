@@ -168,7 +168,7 @@ I created `.env` file at the root.
 
 Add the language next to the backticks ```js
 
-````javascript
+```javascript
 var specificLanguage_code = {
   data: {
     lookedUpPlatform: 1,
@@ -182,8 +182,8 @@ var specificLanguage_code = {
     },
   },
 };
-```sole.log(x);
-````
+sole.log(x);
+```
 
 <br>
 <a href="#index">ꜛ Index</a>
