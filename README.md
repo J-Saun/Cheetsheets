@@ -32,7 +32,7 @@
 
 [Tables](#tables)
 
-[Combinations](#combinations)
+[Images](#images)
 
 [create an anchor](#anchors-in-markdown)
 
@@ -367,20 +367,27 @@ Project is about movies and music
   <summary>Title 1</summary>
   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
+<br>
 <details>
   <summary>Title 2</summary>
   <p>Content 2 Content 2 Content 2 Content 2 Content 2</p>
 </details>
-
-    Markup : <details>
-               <summary>Title 1</summary>
-               <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
-             </details>
+<br>
 
 ```html
-<h3>HTML</h3>
-<p>Some HTML code here</p>
+<details>
+  <summary>Title 1</summary>
+  <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+<details>
+  <summary>Title 2</summary>
+  <p>Content 2 Content 2 Content 2 Content 2 Content 2</p>
+</details>
 ```
+
+<br>
+<a href="#index">ꜛ Index</a>
+<br><br>
 
 ### Images
 
@@ -395,13 +402,6 @@ _Image with alt :_
 <br>
 <a href="#index">ꜛ Index</a>
 <br><br>
-
-Link to a specific part of the page:
-
-[ꜛ Go To TOP](#TOP)
-
-    [text goes here](#section_name)
-    section_title<a name="section_name"></a>
 
 Hotkey:
 
