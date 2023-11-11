@@ -160,7 +160,7 @@ or
 
 [heading-1](#heading-1 "Goto heading-1")
 
-    [heading-1](#heading-1 "Goto heading-1")
+    Goto heading-1: [heading-1](#heading-1 )
 
 <a href="#index">ꜛ Index</a>
 
