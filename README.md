@@ -261,19 +261,21 @@ Next.js
 
 <a id="tables" />
 
-| First Header | Second Header |
-| ------------ | ------------- |
-| Content Cell | Content Cell  |
-| Content Cell | Content Cell  |
-
 Small Table -
 
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
+
 ```
 | First Header | Second Header |
 | ------------ | ------------- |
 | Content Cell | Content Cell  |
 | Content Cell | Content Cell  |
 ```
+
+Large Table -
 
 | First Header | Second Header | Third Header | Fourth Header |
 | :----------: | :-----------: | :----------: | :-----------: |
@@ -281,8 +283,6 @@ Small Table -
 | Content Cell | Content Cell  | Content Cell | Content Cell  |
 | Content Cell | Content Cell  | Content Cell | Content Cell  |
 | Content Cell | Content Cell  | Content Cell | Content Cell  |
-
-Large Table -
 
 ```
 |First Header  | Second Header | Third Header | Fourth Header |
