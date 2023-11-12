@@ -1,5 +1,5 @@
 # Cheetsheets
 
-- [MD Cheatsheet](MDCheatsheet.md)
+- [MD Cheatsheet](/Markdown/MDCheatsheet.md)
 
-- [PHP Cheatsheet](PHPCheatsheet.md)
+- [PHP Cheatsheet](/PHP/index.md)
