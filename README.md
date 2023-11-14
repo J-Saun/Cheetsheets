@@ -4,6 +4,7 @@
 
 - [PHP Cheatsheet](/PHP/index.md)
 
+<<<<<<< HEAD
 ---
 
 <br clear="both">
@@ -83,3 +84,6 @@
 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
+=======
+Give a ⭐️ if you like this project!
+>>>>>>> 6cbb6bd7f7fda08a95c10ee491d4a04dfe4dbb00
