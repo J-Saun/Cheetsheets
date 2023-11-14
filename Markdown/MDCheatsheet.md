@@ -29,7 +29,7 @@
 
 [Tables](#tables)
 
-s[Annotations](#annotations)
+[Annotations](#annotations)
 
 [HTML](#html)
 
@@ -39,7 +39,7 @@ s[Annotations](#annotations)
 
 [Images](#images)
 
-[create an anchor](#anchors-in-markdown)
+[create an anchor](#)
 
 <br>
 
